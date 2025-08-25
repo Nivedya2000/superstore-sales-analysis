@@ -2,7 +2,7 @@
 # 📊 Superstore Sales Analysis Dashboard
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode)](https://code.visualstudio.com/)
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nivedya2000-superstore-sales-analysis.streamlit.app)
 
 
