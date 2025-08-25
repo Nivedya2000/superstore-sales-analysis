@@ -113,11 +113,6 @@ Easily deploy the dashboard online with **Streamlit Community Cloud**.
 
 ---
 
-## 📸 Dashboard Preview
-
-👉 (Insert screenshot or GIF of dashboard here once deployed)
-
----
 
 ## 📌 Workflow
 
