@@ -2,7 +2,8 @@
 # 📊 Superstore Sales Analysis Dashboard
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nivedya2000-superstore-sales-analysis.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://superstore-sales-analysis-qxdnhcrcuwkefmhhappapr.streamlit.app)
+
 
 
 An interactive **Sales Analysis Dashboard** built with **Python, Pandas, Plotly, Seaborn, and Streamlit**.
