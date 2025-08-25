@@ -3,7 +3,8 @@
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![Streamlit](https://img.shields.io/badge/Web%20App-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nivedya2000-superstore-sales-analysis.streamlit.app)
+
 
 An interactive **Sales Analysis Dashboard** built with **Python, Pandas, Plotly, Seaborn, and Streamlit**.
 This project provides insights into **sales performance, profit trends, discount impact, and customer behavior** using the **Superstore dataset**.
