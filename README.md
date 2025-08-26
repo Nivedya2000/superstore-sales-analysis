@@ -1,5 +1,6 @@
 
-# 📊 Superstore Sales Analysis Dashboard / ecommerce-sales-insights
+# 📊 Superstore Sales Analysis Dashboard / # 📊 E-commerce Sales Insights
+
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nivedya2000-superstore-sales-analysis.streamlit.app/)
