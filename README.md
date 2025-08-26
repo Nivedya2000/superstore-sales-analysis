@@ -16,7 +16,7 @@ This project provides insights into **sales performance, profit trends, discount
 ## 📂 Project Structure
 
 ```text
-superstore-sales-analysis/
+ecommerce-Sales-Insights/
 │── data/                   # Dataset (Superstore CSV file)
 │── plots/                  # Saved plots from EDA
 │── reports/                # Generated reports and summaries
