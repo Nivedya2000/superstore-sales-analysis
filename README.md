@@ -1,5 +1,5 @@
 
-# 📊 Superstore Sales Analysis Dashboard / # 📊 E-commerce Sales Insights
+# 📊 E-commerce Sales Insights
 
 
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue)](https://www.python.org/)
